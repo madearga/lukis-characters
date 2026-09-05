@@ -14,6 +14,9 @@ your default, or switch per run.
 | Pack | In action | Look | Author | What it is |
 |---|---|---|---|---|
 | [`ciko`](packs/ciko/) | <img src="packs/ciko/preview.png" width="280"> | sablon | I Made Arga Swarsa | A small house gecko (cicak): the quiet regular on the wall. Deadpan patience, showing up, and the work that gets done without announcement. _aka `cicak`, `gecko`, `house-gecko`, `lizard`._ ([model sheet](packs/ciko/reference.png)) |
+| [`pijar`](packs/pijar/) | <img src="packs/pijar/preview.png" width="280"> | blueprint | I Made Arga Swarsa | A small light bulb: the moment it clicks. Ideas, clarity, the plan coming together — and how-it-works. _aka `bulb`, `lampu`, `bohlam`._ ([model sheet](packs/pijar/reference.png)) |
+| [`pasir`](packs/pasir/) | <img src="packs/pasir/preview.png" width="280"> | chalk | I Made Arga Swarsa | An hourglass watching the time slip by. Deadlines, timeboxes, patience — and where the time went. _aka `hourglass`, `jam-pasir`._ ([model sheet](packs/pasir/reference.png)) |
+| [`seduh`](packs/seduh/) | <img src="packs/seduh/preview.png" width="280"> | gouache | I Made Arga Swarsa | A coffee mug: good things, steeping. Deep work, patience, warmth — and builds quietly brewing. _aka `mug`, `cangkir`, `kopi`._ ([model sheet](packs/seduh/reference.png)) |
 
 ## Install a pack
 

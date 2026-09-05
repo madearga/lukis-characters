@@ -1,1 +1,56 @@
-{"packs": [{"aliases": ["cicak", "gecko", "house gecko", "lizard"], "author": "I Made Arga Swarsa", "cutout_chroma": "magenta", "description": "A small house gecko (cicak): the quiet regular on the wall. Deadpan patience, showing up, and the work that gets done without announcement.", "name": "ciko", "style": "sablon", "version": "1.0.0"}]}
+{
+ "packs": [
+  {
+   "aliases": [
+    "cicak",
+    "gecko",
+    "house gecko",
+    "lizard"
+   ],
+   "author": "I Made Arga Swarsa",
+   "cutout_chroma": "magenta",
+   "description": "A small house gecko (cicak): the quiet regular on the wall. Deadpan patience, showing up, and the work that gets done without announcement.",
+   "name": "ciko",
+   "style": "sablon",
+   "version": "1.0.0"
+  },
+  {
+   "name": "pijar",
+   "author": "I Made Arga Swarsa",
+   "version": "1.0.0",
+   "description": "A small light bulb: the moment it clicks. Ideas, clarity, the plan coming together — and how-it-works.",
+   "style": "blueprint",
+   "aliases": [
+    "bulb",
+    "lampu",
+    "bohlam"
+   ],
+   "cutout_chroma": "magenta"
+  },
+  {
+   "name": "pasir",
+   "author": "I Made Arga Swarsa",
+   "version": "1.0.0",
+   "description": "An hourglass watching the time slip by. Deadlines, timeboxes, patience — and where the time went.",
+   "style": "chalk",
+   "aliases": [
+    "hourglass",
+    "jam-pasir"
+   ],
+   "cutout_chroma": "magenta"
+  },
+  {
+   "name": "seduh",
+   "author": "I Made Arga Swarsa",
+   "version": "1.0.0",
+   "description": "A coffee mug: good things, steeping. Deep work, patience, warmth — and builds quietly brewing.",
+   "style": "gouache",
+   "aliases": [
+    "mug",
+    "cangkir",
+    "kopi"
+   ],
+   "cutout_chroma": "magenta"
+  }
+ ]
+}
