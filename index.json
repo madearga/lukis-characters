@@ -51,6 +51,40 @@
     "kopi"
    ],
    "cutout_chroma": "magenta"
+  },
+  {
+   "name": "siput",
+   "author": "I Made Arga Swarsa",
+   "version": "1.0.0",
+   "description": "A garden snail: slow, steady, and always arriving. Patience, steady progress — and the work that finishes by never stopping.",
+   "style": "riso",
+   "aliases": [
+    "snail",
+    "keong"
+   ],
+   "cutout_chroma": "magenta"
+  },
+  {
+   "name": "jangkar",
+   "author": "I Made Arga Swarsa",
+   "version": "1.0.0",
+   "description": "A ship's anchor: holding fast when the sea gets rough. Stability, commitment — and the weight that keeps things from drifting.",
+   "style": "woodcut",
+   "aliases": [
+    "anchor"
+   ],
+   "cutout_chroma": "magenta"
+  },
+  {
+   "name": "perisai",
+   "author": "I Made Arga Swarsa",
+   "version": "1.0.0",
+   "description": "A heater shield: nothing gets past it. Protection, standing guard, holding the line — security and guarding prod.",
+   "style": "enamel",
+   "aliases": [
+    "shield"
+   ],
+   "cutout_chroma": "magenta"
   }
  ]
 }
